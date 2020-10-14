@@ -4,8 +4,11 @@
   "Update": "Update",
   "Name" : "Name",
   "Menu_Bill": "Bill",
+  "Detail_Title": "Detail",
   "Menu_History": "History",
   "Menu_Planning": "Planning",
   "Menu_NewRecord": "New Record",
-  "Menu_Categories": "Categories"
+  "Menu_Categories": "Categories",
+  "Login": "Login",
+  "Register": "Register"
 }
